@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/334543e7_spring-beans.xsd" />
+    <resource url="https://dubbo.apache.org/schema/dubbo/dubbo.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/ede6c026_dubbo.xsd" />
+  </component>
+</application>

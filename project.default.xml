@@ -1,0 +1,43 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="true" />
+            <option name="checksumPolicy" value="WARN" />
+            <option name="failureBehavior" value="NEVER" />
+            <option name="localRepository" value="$USER_HOME$/.m2/repository" />
+            <option name="mavenHome" value="$USER_HOME$/apache-maven-3.8.4" />
+            <option name="printErrorStackTraces" value="true" />
+            <option name="threads" value="16" />
+            <option name="usePluginRegistry" value="true" />
+            <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

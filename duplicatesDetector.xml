@@ -1,0 +1,34 @@
+<application>
+  <component name="DuplicatesDetector">
+    <entry key="ActionScript">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+    <entry key="Groovy">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+    <entry key="Java">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+    <entry key="JavaScript">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+    <entry key="Kotlin">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+    <entry key="TypeScript">
+      <language>
+        <option name="enabledIndex" value="false" />
+      </language>
+    </entry>
+  </component>
+</application>

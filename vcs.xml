@@ -1,0 +1,115 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://http://116.1.201.46:30000/security_quality/security_quality_src.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://116.1.201.46:30000" />
+          <option name="userName" value="zhuoguangming@linesno.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.lbxinhu.linesno.com" />
+          <option name="userName" value="zgm.developer@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-saas.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-base-notice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-base-storage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-base-workflow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-service-incubator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-lowcode-incubator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-operation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-base-integration-pay.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-data-analyse-report.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-watcher.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-cms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-auth-group.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-captcha.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/alinesno-cloud-data-warehouse/alinesno-cloud-metadata-manager-platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-base-print.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-business-project/alinesno-cloud-yyt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-cloud-initializr-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.lbxinhu.linesno.com/xinhu-architecture-cloud/alinesno-dahua-stream-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://172.31.121.44:8086" />
+          <option name="userName" value="datacenter@xxzx.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.116.25.132:9023" />
+          <option name="userName" value="zhuoguangming" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/ideaProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>

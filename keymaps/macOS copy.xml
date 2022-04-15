@@ -1,0 +1,10 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="CloseContent" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+</keymap>
