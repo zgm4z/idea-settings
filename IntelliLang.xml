@@ -96,6 +96,11 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("parse", "get", "newBuilder").withParameters("java.lang.String").definedInClass("okhttp3.HttpUrl"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("url").withParameters("java.lang.String").definedInClass("okhttp3.Request.Builder"))]]></place>
     </injection>
+    <injection language="SpEL" injector-id="java">
+      <display-name>OperationLog.operator (com.hisugar.fshop.oplog)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiMethod().withName("operator").withParameters().definedInClass("com.hisugar.fshop.oplog.OperationLog")]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>QueryProducer (org.hibernate.query)</display-name>
       <single-file value="true" />
