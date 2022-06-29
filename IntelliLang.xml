@@ -99,7 +99,7 @@
     <injection language="SpEL" injector-id="java">
       <display-name>OperationLog (com.hisugar.fshop.oplog)</display-name>
       <single-file value="false" />
-      <place><![CDATA[psiMethod().withName("exp").withParameters().definedInClass("com.hisugar.fshop.oplog.OperationLog")]]></place>
+      <place disabled="true"><![CDATA[psiMethod().withName("exp").withParameters().definedInClass("com.hisugar.fshop.oplog.OperationLog")]]></place>
       <place><![CDATA[psiMethod().withName("operator").withParameters().definedInClass("com.hisugar.fshop.oplog.OperationLog")]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
