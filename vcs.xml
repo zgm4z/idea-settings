@@ -94,6 +94,10 @@
           <option name="url" value="http://10.116.25.132:9023" />
           <option name="userName" value="zhuoguangming" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.19.116.3:30023" />
+          <option name="userName" value="gogs-admin" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ideaProjects" />
