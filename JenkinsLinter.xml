@@ -1,0 +1,7 @@
+<application>
+  <component name="JenkinsLinterState">
+    <option name="ignoreCertificate" value="true" />
+    <option name="jenkinsUrl" value="http://10.19.116.4:30020" />
+    <option name="trustSelfSigned" value="true" />
+  </component>
+</application>
