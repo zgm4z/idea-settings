@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="telnethandler" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
