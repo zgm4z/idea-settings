@@ -5,5 +5,6 @@
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/1524e8b2_configuration_1_3.dtd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/334543e7_spring-beans.xsd" />
     <resource url="https://dubbo.apache.org/schema/dubbo/dubbo.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.1/extResources/ede6c026_dubbo.xsd" />
+    <resource url="https://raw.githubusercontent.com/enricopulatzo/logback-XSD/master/src/main/xsd/logback.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.3/extResources/bcf0afa8_logback.xsd" />
   </component>
 </application>
